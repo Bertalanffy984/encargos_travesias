@@ -1,0 +1,23 @@
+{
+  "name": "backend-redes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node ./bin/www"
+  },
+  "dependencies": {
+    "cloudinary": "^2.11.0",
+    "cookie-parser": "1.4.4",
+    "debug": "2.6.9",
+    "dotenv": "18.0.3",
+    "ejs": "6.0.1",
+    "express": "4.16.1",
+    "http-errors": "1.6.3",
+    "jade": "1.11.0",
+    "morgan": "1.9.1",
+    "multer": "^2.5.0",
+    "mysql2": "3.24.4",
+    "pug": "3.0.4"
+  }
+}
