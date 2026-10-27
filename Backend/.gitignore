@@ -50,8 +50,3 @@ Thumbs.db
 *.tar
 *.gz
 *.rar
-
-# Variables locales
-.env
-.env.*
-!.env.example
