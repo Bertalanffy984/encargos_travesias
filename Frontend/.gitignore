@@ -1,0 +1,16 @@
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+*.iml
+.idea/
+.vscode/
+
+# Env (credenciales / URLs locales)
+.env
+
+# OS
+.DS_Store
+Thumbs.db
